@@ -4,6 +4,8 @@
 
 The Game of Life is a cellular automaton developed by the British mathematician John Horton Conway in 1970. The game was created in order to reproduce, through simple rules, alterations and changes in groups of living beings, having applications in several areas of science.
 
+It starts with a certain configuration of pieces, distributed throughout the cells. In each cell there is either a piece or there is no piece. This rule is valid at the beginning and throughout the game. Then Conway's "genetic laws" are applied, which determine the pattern of births, deaths, and survivals.
+
 The defined rules are applied to each new "generation"; thus, from an image on a two-dimensional board defined by the player, changes are perceived that are often unexpected and beautiful with each new generation, ranging from fixed to chaotic patterns.
 
 ## Rules
