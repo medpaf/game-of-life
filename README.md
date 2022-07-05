@@ -13,3 +13,8 @@ The defined rules are applied to each new "generation"; thus, from an image on a
 2. Any living cell with more than three live neighbors dies of overpopulation.
 3. Any cell with exactly three live neighbors becomes a live cell.
 4. Any cell with two live neighbors remains in the same state for the next generation.
+
+The dependencies to run this script are:
+
+1. Numpy
+2. Pygame
