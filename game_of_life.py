@@ -71,7 +71,7 @@ def main():
             cells = update(screen, cells, 10, with_progress=True)
             pygame.display.update()
 
-        time.sleep(0.0010)
+        time.sleep(0.0090)
 
 if __name__ == '__main__':
     main()
