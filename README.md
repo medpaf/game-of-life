@@ -2,6 +2,8 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+![Screenshot from 2022-07-10 16-23-04](https://user-images.githubusercontent.com/61552222/178151240-3043db7d-3b24-4806-81bf-69c5acadafe3.png)
+
 The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a cellular automaton developed by the British mathematician John Horton Conway in 1970. The game was created in order to reproduce, through simple rules, alterations and changes in groups of living beings, having applications in several areas of science.
 
 It starts with a certain configuration of pieces, distributed throughout the cells. In each cell there is either a piece or there is no piece. This rule is valid at the beginning and throughout the game. Then Conway's "genetic laws" are applied, which determine the pattern of births, deaths, and survivals.
